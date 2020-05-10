@@ -1,0 +1,58 @@
+.confirmeddata {
+    color: red;
+}
+
+.lastrefreshed {
+    color: lightskyblue;
+}
+
+.anyClass {
+    height: 200px;
+    overflow-y: scroll;
+}
+
+.recovereddata {
+    color: green;
+}
+
+.TotalConfirmed {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.GlobalConfirmed {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.LastUpdated {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.MapComponent {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.tabs {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.ChartComponent {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
